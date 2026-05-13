@@ -3,5 +3,6 @@
 
     <!-- Vendor Pick-ups -->
     <project path="vendor/extra" name="PVOT-OSS/platform_vendor_pvot" revision="android-17.0" />
+    <project path="vendor/partner_pvot" name="PVOT-OSS/platform_vendor_partner_pvot" revision="main" />
 
 </manifest>
