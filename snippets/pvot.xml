@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
+    <!-- Vendor Pick-ups -->
+    <project path="vendor/extra" name="PVOT-OSS/platform_vendor_pvot" revision="android-17.0" />
+
 </manifest>
